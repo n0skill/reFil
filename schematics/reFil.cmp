@@ -1,0 +1,136 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = ven 03 jun 2016 13:29:50 CEST
+
+BeginCmp
+TimeStamp = /57385905;
+Reference = BCD1;
+ValeurCmp = CD4543BE;
+IdModule  = CD4543BE;
+EndCmp
+
+BeginCmp
+TimeStamp = /574FF490;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /573C653E;
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /573C64BC;
+Reference = CON1;
+ValeurCmp = BARREL_JACK;
+IdModule  = JACK_ALIM;
+EndCmp
+
+BeginCmp
+TimeStamp = /574F63E1;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /575002A1;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /575002B9;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /574C347F;
+Reference = DS1;
+ValeurCmp = SA04-11;
+IdModule  = SA03-11;
+EndCmp
+
+BeginCmp
+TimeStamp = /5745C89B;
+Reference = P1;
+ValeurCmp = CONN_5X2;
+IdModule  = PIN_ARRAY_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5738678F;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /57389704;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5738A2B7;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /57386780;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /574F63F0;
+Reference = R2;
+ValeurCmp = 18k;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /575002A7;
+Reference = R3;
+ValeurCmp = 18k;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /575002BF;
+Reference = R4;
+ValeurCmp = 18k;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /57386B29;
+Reference = REL1;
+ValeurCmp = SRD-05VDC-SL-C;
+IdModule  = SRD-05VDC-SL-C;
+EndCmp
+
+BeginCmp
+TimeStamp = /5738A2B0;
+Reference = REL2;
+ValeurCmp = SRD-05VDC-SL-C;
+IdModule  = SRD-05VDC-SL-C;
+EndCmp
+
+BeginCmp
+TimeStamp = /573C64CB;
+Reference = U1;
+ValeurCmp = 7805;
+IdModule  = LM78XXV;
+EndCmp
+
+EndListe
