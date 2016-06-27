@@ -4,9 +4,11 @@ A machine that makes filament suitable for 3D printers out of normally unrecycle
 # Folders
 * schematics - All of the schematics made with KiCAD. Including the gerber files, kicad files (schematic, netlist, pcb, etc.)
 * src - The source code running on the arduino nano (arduino/C/AVR ASM)
-* - 3D pieces
+* mechanics - mechanical parts
+
 # Material
 The following material is needed for the whole project.
+
 ## Mechanical parts
 The machine is made of lathed aluminium and brass.
 All the plans will be available in the "mechanical" folder. Including 3D models, plans and specs
